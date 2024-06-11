@@ -1,0 +1,4 @@
+$ git clone https://github.com/AbdulRKB/P45.git
+$ cd P45
+$ npm install
+$ node index.js
